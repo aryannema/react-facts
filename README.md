@@ -5,3 +5,6 @@
 ## Learning:
 
 - custom components
+- fragments
+- className
+- JSX
