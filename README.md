@@ -5,7 +5,7 @@
 
 ## Learning:
 
-- custom components
+- custom components(Navbar, Main)
 - fragments
 - className
 - JSX
